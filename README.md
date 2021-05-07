@@ -1,2 +1,2 @@
-# funkoShare
-Web App for sharing Funko collection
+# Google Image Grabber
+Grab first image from a google search
